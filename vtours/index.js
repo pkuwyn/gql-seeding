@@ -9,7 +9,7 @@ module.exports = [
       "舍卫城南城门考古遗址3D虚拟实习摘要 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
     tourImage: "vtour1.jpg",
     learningTime: 12,
-    order: 5,
+    order: 1,
     content: testContent,
   },
   {
@@ -20,7 +20,7 @@ module.exports = [
       "澹泊宁静一期考古遗址3D虚拟实习摘要 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
     tourImage: "vtour2.jpg",
     learningTime: 12,
-    order: 4,
+    order: 2,
     content: testContent,
   },
   {
@@ -44,7 +44,7 @@ module.exports = [
 
     tourImage: "vtour4.jpg",
     learningTime: 12,
-    order: 2,
+    order: 4,
     content: testContent,
   },
   {
@@ -56,7 +56,7 @@ module.exports = [
 
     tourImage: "vtour5.jpg",
     learningTime: 10,
-    order: 1,
+    order: 5,
     content: testContent,
   },
 ];

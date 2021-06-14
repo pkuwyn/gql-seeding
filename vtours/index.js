@@ -10,54 +10,51 @@ module.exports = [
     tourType: "model",
     url: "http://archaeology.yungujian.com/demo/ymy-swc/index.html",
     summary:
-      "舍卫城南城门考古遗址3D虚拟实习摘要 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
+      "2019年，北京市文物研究所对圆明园舍卫城遗址进行了第一期考古发掘工作，考古发掘面积500平方米，清理出南城门、南城门西侧城墙一段及马道、南城门东侧城墙一段及马道、南城门外御路一段、南城门内御路一段、城门东西两侧值房及南城门下暗涵洞一段。",
     tourImage: "vtour1.jpg",
-    learningTime: 12,
+    learningTime: 10,
     order: 1,
     content: richContent,
   },
   {
     name: "澹泊宁静一期考古遗址3D虚拟实习",
     tourType: "model",
-    url: "http://archaeology.yungujian.com/demo/ymy-swc/index.html",
+    url: "http://archaeology.yungujian.com/dbnj/20210105/3dtile/App_CCWebViewer2/index.html",
     summary:
-      "澹泊宁静一期考古遗址3D虚拟实习摘要 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
+      "2020年末至2021年初，北京市文物研究所联合北京大学考古文博学院发掘澹泊宁静遗址，发掘面积500平方米，清理出了田字房东部南部的建筑基址。",
     tourImage: "vtour2.jpg",
-    learningTime: 12,
+    learningTime: 10,
     order: 2,
     content: richContent,
   },
   {
     name: "舍卫城南城门考古遗址全景漫游实习",
     tourType: "pano",
-    url: "http://vr-heritage.com/tour/df9d3f1a1be79c1c",
+    url: "http://www.vr-heritage.com/tour/1b75239e97ae9bf8",
     summary:
-      "舍卫城南城门考古遗址全景漫游实习摘要  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
-
+      "2019年，北京市文物研究所对圆明园舍卫城遗址进行了第一期考古发掘工作，考古发掘面积500平方米，清理出南城门、南城门西侧城墙一段及马道、南城门东侧城墙一段及马道、南城门外御路一段、南城门内御路一段、城门东西两侧值房及南城门下暗涵洞一段。",
     tourImage: "vtour3.jpg",
-    learningTime: 12,
+    learningTime: 15,
     order: 3,
     content: richContent,
   },
   {
     name: "澹泊宁静一期考古遗址全景漫游实习",
     tourType: "pano",
-    url: "http://vr-heritage.com/tour/09dfc06cf7d54f0a",
+    url: "http://www.vr-heritage.com/tour/3862df147e206420",
     summary:
-      "澹泊宁静一期考古遗址全景漫游实习摘要  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
-
+      "2020年末至2021年初，北京市文物研究所联合北京大学考古文博学院发掘澹泊宁静遗址，发掘面积500平方米，清理出了田字房东部南部的建筑基址。",
     tourImage: "vtour4.jpg",
-    learningTime: 12,
+    learningTime: 15,
     order: 4,
     content: richContent,
   },
   {
     name: "圆明园田野考古工作历程",
     tourType: "html",
-    url: "http://archaeology.yungujian.com/demo/ymy-sites/index.html",
+    url: "http://archaeology.yungujian.com/demo/ymysites/index.html",
     summary:
-      "圆明园田野考古工作历程摘要 Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus nam ad unde sapiente vitae ratione consequatur veritatis culpa ab dolore.",
-
+      "自上世纪90年代以来，以北京市文物研究所为代表的科研单位在圆明园陆续开展了一系列的考古调查与发掘工作，逐渐厘清了圆明园诸遗址的保存状况，为圆明园遗址的保护、研究和展示工作提供了基础。",
     tourImage: "vtour5.jpg",
     learningTime: 10,
     order: 5,
